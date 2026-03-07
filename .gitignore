@@ -1,6 +1,5 @@
 .venv
 .DS_Store
-in
 out
 temp*
 config.json

@@ -1,0 +1,46 @@
+[
+  {
+    "story_id": 1,
+    "story_title": "Can every single one of us surround our whole planet?",
+    "story_word_count": 190,
+    "clips": [
+      {
+        "clip_id": 1,
+        "clip": "If every single one of us held hands together in a chain of unity around Earth, would there be enough of us to go all the way around the planet? There are about 7 .5 billion of us, and that's a lot, but remember that that many human bodies thrown together into one big pile would barely fill the Grand Canyon. This is all of us in one place. The physical bulk of all living human flesh on Earth today would only make a cone about 7 ,000 people tall and 2 ,000 across. That's it. But that's a three -dimensional shape. What if we made a one -dimensional, single -file line of people each with, say, one meter of a row, and we stretched that around the planet? it. Well, we would make it all the way around and still have 99 .5 % of the human population left. If we made a circle that included everyone, the ring of people would be more than 2 .4 million kilometers in diameter, dorking the orbit of our own moon. Now that's not just a circle. That is a sir cool.",
+        "clip_word_count": 190
+      }
+    ]
+  },
+  {
+    "story_id": 2,
+    "story_title": "The physical brachistochrone & it's bizzare tautochrone property",
+    "story_word_count": 334,
+    "clips": [
+      {
+        "clip_id": 1,
+        "clip": "let me ask you this. With only gravity to move you, what's the fastest way to roll or slide from a point to some other point below, but not directly below?",
+        "clip_word_count": 31
+      },
+      {
+        "clip_id": 2,
+        "clip": "a cycloid provides the perfect balance between keeping the journey distance short and picking up speed early. Now I told Adam all of this and I told him that it would be really fun to have a cycloid curve we could roll things down. And he said, clearly we should start building.",
+        "clip_word_count": 52
+      },
+      {
+        "clip_id": 3,
+        "clip": "Are you ready? I'm ready. All right, I'll count us down 321 go. Here we go. 3, 2, 1. One go One two three with the state was second straight was last straight was last the shortest distance between two points was last Slowest way to get there.",
+        "clip_word_count": 48
+      },
+      {
+        "clip_id": 4,
+        "clip": "I'm gonna remove the straight line guys well, so we're left with a cycle which is called a brachista -crone curve, but it also has a bizarre property where, no matter where I start an object on it. When I let go, they always reach the bottom. In the same amount of time. Wait a second. So if I start it here, the amount of time it takes for this to get to the end is the same amount of time it takes for it to get to the end from here. Yeah, and the same from right here. Well, there. Wow, okay. So starting from here, it's going to be tough because of friction. Yeah, now if you do this in software, it's perfect. But that's boring.",
+        "clip_word_count": 128
+      },
+      {
+        "clip_id": 5,
+        "clip": "I think the same person should release them because then time it better. So here, put that one here. Okay. All right, so three different positions. This one has longer to go. Yep, this one has the shortest path. So who's gonna reach the bottom first? Okay, here we go. Let's see, if you wish it would say, the one in my, this one, we go first, ready? Yeah. Good. Pretty good. That was awesome.",
+        "clip_word_count": 75
+      }
+    ]
+  }
+]
