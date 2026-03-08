@@ -1,0 +1,89 @@
+[
+  {
+    "story_id": 1,
+    "story_title": "Rome Escalator Disaster: Sabotage and Neglect Revealed!",
+    "story_word_count": 492,
+    "clips": [
+      {
+        "clip_id": 1,
+        "clip": "On October 23rd, 2018, thousands of football fans were making their way to the game in Rome.",
+        "clip_word_count": 17
+      },
+      {
+        "clip_id": 2,
+        "clip": "At 7 .03 pm, around 50 people were riding the long escalator down to the platform.",
+        "clip_word_count": 16
+      },
+      {
+        "clip_id": 3,
+        "clip": "within 30 seconds, the crowd had swelled to nearly double that.",
+        "clip_word_count": 11
+      },
+      {
+        "clip_id": 4,
+        "clip": "the motor applied a counter -torque, but as the force continued to increase, the stairs began to move faster.",
+        "clip_word_count": 19
+      },
+      {
+        "clip_id": 5,
+        "clip": "The motor finally reached its limit, and under the massive strain, the drum began to slip.",
+        "clip_word_count": 16
+      },
+      {
+        "clip_id": 6,
+        "clip": "the escalator triggered its second line of defense, a safety relay tripped, immediately cutting power to the motor. The main brake clamped down on the metal drum to stop the descent of the stairs. But it failed.",
+        "clip_word_count": 37
+      },
+      {
+        "clip_id": 7,
+        "clip": "the escalator engaged the last line of defense. In the event of an emergency, an auxiliary brake is designed to bypass the motor entirely, and directly lock the drive shaft. Under normal circumstances, the chance that all three safety measures fail at the same time is vanishingly small. But these weren't normal circumstances. At 7 .05 pm, the third and final safety system failed, and the stairs began to plummet. Fans were flung forward and started streaming down the escalator. Some left over the central barrier in desperation, while others were swept into a crushing pilot. At the bottom, the landing became a dangerous choke point. Under the pressure, the steps twisted and buckled into jagged metal, leaving 24 people injured.",
+        "clip_word_count": 121
+      },
+      {
+        "clip_id": 9,
+        "clip": "After a nearly two -year -long investigation, the investigators published this 86 -page report.",
+        "clip_word_count": 14
+      },
+      {
+        "clip_id": 10,
+        "clip": "Tests after the incident showed that its braking force was far too low, around 37 % of the manufacturer's specification. Though we can brake, struggled to slow the spinning motor and the escalators downhill acceleration continued.",
+        "clip_word_count": 36
+      },
+      {
+        "clip_id": 11,
+        "clip": "When the escalator's speed rose by more than 20%, the auxiliary brake triggered, driving steel wedges into a disc on the drive shaft. But when investigators opened up this brake, they were shocked.",
+        "clip_word_count": 33
+      },
+      {
+        "clip_id": 12,
+        "clip": "Someone had physically tied plastic straps around one of the two brake wedges and rendered it useless. With half the system unable to engage, its stopping power was cut by 50%, just enough for the weight of all those passengers to overpower the brake and render the last line of defense useless.",
+        "clip_word_count": 52
+      },
+      {
+        "clip_id": 13,
+        "clip": "Investigators knew that these failures should have been automatically recorded in the error logs, but when they went to check, they found nothing. The error codes had been turned off",
+        "clip_word_count": 30
+      },
+      {
+        "clip_id": 14,
+        "clip": "The only way this could happen was if they had been disabled on purpose, meaning someone must have reprogrammed the system to stop recording fault codes.",
+        "clip_word_count": 26
+      },
+      {
+        "clip_id": 15,
+        "clip": "All findings from the technical investigation pointed not to a manufacturing defect, but to a pattern of neglect and falsification by those in charge of keeping the machine safe.",
+        "clip_word_count": 29
+      },
+      {
+        "clip_id": 16,
+        "clip": "In many cases, safety devices had been deliberately sabotaged to avoid escalator shutdowns, and those in charge had covered their tracks through a pattern of fraud and obstruction.",
+        "clip_word_count": 28
+      },
+      {
+        "clip_id": 17,
+        "clip": "This wasn't an engineering failure, it was a human one.",
+        "clip_word_count": 10
+      }
+    ]
+  }
+]
