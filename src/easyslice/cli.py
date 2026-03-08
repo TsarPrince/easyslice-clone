@@ -9,11 +9,10 @@ from easyslice.pipeline.captions import CAPTION_PRESETS, caption_all_stories
 from easyslice.pipeline.clip_matching import map_stories_to_transcript
 from easyslice.pipeline.story_segmentation import load_or_create_stories
 from easyslice.pipeline.transcription import load_or_create_transcript
-from easyslice.pipeline.utils import extract_video_id
+from easyslice.pipeline.utils import extract_video_id, safe_filename
 from easyslice.pipeline.video_editing import create_vertical_clip
 from easyslice.pipeline.youtube import get_video
 from easyslice.ui.progress import Step, header, info
-from easyslice.pipeline.utils import safe_filename
 
 
 def build_parser() -> argparse.ArgumentParser:
