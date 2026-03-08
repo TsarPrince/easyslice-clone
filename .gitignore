@@ -3,3 +3,18 @@
 out
 temp*
 config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tests / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
