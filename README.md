@@ -34,3 +34,9 @@ easyslice --video-url 'https://www.youtube.com/watch?v=...' --captions
 # choose caption styles
 easyslice --video-url 'https://www.youtube.com/watch?v=...' --captions --caption-presets sentence_bg_highlight,single_word
 ```
+
+## Sample Usage
+
+```bash
+easyslice --video-url 'https://www.youtube.com/watch?v=bHIhgxav9LY'
+```
