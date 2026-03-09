@@ -38,5 +38,8 @@ easyslice --video-url 'https://www.youtube.com/watch?v=...' --captions --caption
 ## Sample Usage
 
 ```bash
-easyslice --video-url 'https://www.youtube.com/watch?v=bHIhgxav9LY'
+easyslice --video-url 'https://www.youtube.com/watch?v=zB_OApdxcno'
 ```
+
+
+<img width="2386" height="972" alt="image" src="https://github.com/user-attachments/assets/e597dcde-4c82-4c1e-bfbb-b21102a651e5" />
