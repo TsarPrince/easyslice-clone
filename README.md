@@ -41,5 +41,7 @@ easyslice --video-url 'https://www.youtube.com/watch?v=...' --captions --caption
 easyslice --video-url 'https://www.youtube.com/watch?v=zB_OApdxcno'
 ```
 
+<img width="2390" height="1644" alt="image" src="https://github.com/user-attachments/assets/5f78c790-23ca-45ac-966e-a206a3e26e7e" />
 
-<img width="2386" height="972" alt="image" src="https://github.com/user-attachments/assets/e597dcde-4c82-4c1e-bfbb-b21102a651e5" />
+
+
