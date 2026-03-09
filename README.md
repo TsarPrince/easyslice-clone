@@ -41,7 +41,7 @@ easyslice --video-url 'https://www.youtube.com/watch?v=...' --captions --caption
 easyslice --video-url 'https://www.youtube.com/watch?v=zB_OApdxcno'
 ```
 
-<img width="2390" height="1644" alt="image" src="https://github.com/user-attachments/assets/5f78c790-23ca-45ac-966e-a206a3e26e7e" />
+<img width="2920" height="1636" alt="image" src="https://github.com/user-attachments/assets/bab0ffac-168c-4de4-b8c5-d6d7b8f1cf87" />
 
 
-
+results: [@theoginfochips/shorts](https://www.youtube.com/@theoginfochips/shorts)
